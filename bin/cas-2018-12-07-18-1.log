@@ -1,0 +1,13 @@
+2018-12-07 18:20:55,161 INFO [org.apereo.cas.web.flow.login.InitialFlowSetupAction] - <Setting path for cookies for warn cookie generator to: [/cas/] >
+2018-12-07 18:20:55,218 INFO [org.apereo.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - <Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: [event=success,timestamp=Fri Dec 07 18:20:55 IST 2018,source=RankedAuthenticationProviderWebflowEventResolver]
+ACTION: AUTHENTICATION_EVENT_TRIGGERED
+APPLICATION: CAS
+WHEN: Fri Dec 07 18:20:55 IST 2018
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+>
